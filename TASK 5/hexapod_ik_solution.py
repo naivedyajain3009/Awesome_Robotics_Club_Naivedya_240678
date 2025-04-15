@@ -42,8 +42,8 @@ y = 2
 z = 1
 test_inverse_kinematics()
 
-x = 20
-y = 0
+x = 29
+y = math.sqrt(59)
 z = 0
 test_inverse_kinematics()
 
